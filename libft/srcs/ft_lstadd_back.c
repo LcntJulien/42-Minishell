@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstadd_back.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jmathieu <jmathieu@student.42mulhouse.fr>  +#+  +:+       +#+        */
+/*   By: jlecorne <jlecorne@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/04/17 16:11:46 by jlecorne          #+#    #+#             */
-/*   Updated: 2023/06/23 08:46:20 by jmathieu         ###   ########.fr       */
+/*   Created: 2025/01/22 16:40:25 by jlecorne          #+#    #+#             */
+/*   Updated: 2025/01/22 16:40:27 by jlecorne         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

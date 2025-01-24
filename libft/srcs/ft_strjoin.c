@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strjoin.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jmathieu <jmathieu@student.42mulhouse.fr>  +#+  +:+       +#+        */
+/*   By: jlecorne <jlecorne@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/11/10 11:15:03 by jlecorne          #+#    #+#             */
-/*   Updated: 2023/06/12 19:55:19 by jmathieu         ###   ########.fr       */
+/*   Created: 2025/01/22 16:40:34 by jlecorne          #+#    #+#             */
+/*   Updated: 2025/01/22 16:40:36 by jlecorne         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jmathieu <jmathieu@student.42mulhouse.fr>  +#+  +:+       +#+        */
+/*   By: jlecorne <jlecorne@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/12/06 14:15:32 by jmathieu          #+#    #+#             */
-/*   Updated: 2023/06/23 08:35:13 by jmathieu         ###   ########.fr       */
+/*   Created: 2025/01/22 16:40:49 by jlecorne          #+#    #+#             */
+/*   Updated: 2025/01/22 16:40:51 by jlecorne         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

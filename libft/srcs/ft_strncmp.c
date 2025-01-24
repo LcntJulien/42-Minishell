@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strncmp.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jmathieu <jmathieu@student.42mulhouse.fr>  +#+  +:+       +#+        */
+/*   By: jlecorne <jlecorne@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/11/09 14:02:48 by jlecorne          #+#    #+#             */
-/*   Updated: 2023/09/20 19:05:48 by jmathieu         ###   ########.fr       */
+/*   Created: 2025/01/22 16:40:43 by jlecorne          #+#    #+#             */
+/*   Updated: 2025/01/22 16:40:44 by jlecorne         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
