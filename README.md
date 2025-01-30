@@ -59,23 +59,23 @@ Ce projet met en évidence des compétences clés en programmation système, not
 
 ## 🔧 Prérequis & Installation
 
-1. Prérequis :
-    - installer brew :
-        ```bash
-        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-        ```
-    - installer readline via brew :
-        ```bash
-        brew install readline
-        ```
-        (⚠️ vérifier correspondance entre le chemin de readline et celui utilisé dans le Makefile)
-2. Installation :
-    - cloner le projet :
-        ```bash
-        git clone https://github.com/LcntJulien/42-Minishell.git
-        ```
-    - usage :
-        ```bash
-        cd 42-Minishell
-        ./minishell
-        ```
+### **1. Prérequis**
+- **Installer Homebrew (macOS uniquement) :**
+  ```bash
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  ```
+- **Installer readline via Homebrew :**
+    ```bash
+    brew install readline
+    ```
+    (⚠️ vérifier correspondance entre le chemin de readline et celui utilisé dans le Makefile)
+### **1. Installation**
+- **Cloner le projet :**
+    ```bash
+    git clone https://github.com/LcntJulien/42-Minishell.git
+    ```
+- **Usage :**
+    ```bash
+    cd 42-Minishell
+    ./minishell
+    ```
